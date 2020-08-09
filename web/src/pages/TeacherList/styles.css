@@ -28,8 +28,9 @@
   margin-top: 3.2rem;
 }
 
-#serach-teachers button:hover {
+#search-teachers button:hover {
   background: var(--color-secundary-dark);
+  border: 2px solid darkslategray;
 }
 
 #page-teacher-list main {

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import './styles.css';
 
 import logoImg from '../../assets/logo.svg';
-import landingImg from '../../assets/landing.svg';
+import landingImg from '../../assets/study.svg';
 
 import studyIcon from '../../assets/icons/study.svg';
 import giveClassesIcon from '../../assets/icons/give-classes.svg';
@@ -52,7 +52,7 @@ const Landing = () => {
         </div>
 
         <span className="total-connections">
-          Total de {totalConnections} conexões já realizadas{' '}
+          {totalConnections} conexões já realizadas{' '}
           <img src={purpleHeartIcon} alt="Coração roxo" />
         </span>
       </div>

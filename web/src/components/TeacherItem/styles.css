@@ -50,7 +50,7 @@
 }
 
 .teacher-item footer p strong {
-  color: var(--color-primary);
+  color: #2f4f4f;
   font-size: 1.6rem;
   display: block; /*é quem faz quebrar a linha*/
 }
